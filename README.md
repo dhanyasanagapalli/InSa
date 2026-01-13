@@ -1,4 +1,4 @@
-# NutriGuard Local LLM - 100% Private, No API Keys Required
+# IngreSafe Local LLM - 100% Private, No API Keys Required
 
 ![NutriGuard](https://img.shields.io/badge/NutriGuard-Local%20LLM-blue)
 ![Privacy](https://img.shields.io/badge/Privacy-100%25-brightgreen)
